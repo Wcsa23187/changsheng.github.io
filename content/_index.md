@@ -42,45 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Research Intern
-          company: Next++ (NUS) & LDS (USTC)
-          company_url: 'https://data-science.ustc.edu.cn/_upload/tpl/12/db/4827/template4827/'
-          company_logo: 'lds'
-          location: HEFEI
-          date_start: '2022-09-01'
-          date_end: '2023-03-01'
-          description: |2-
-              Mentor: *Wenjie Wang* (Research Fellow)  
-              Advisor: *Prof.Fuli Feng*  
-              Research Topic include:
-              * Recomender Attack
-              * Platform for Recsys Attack & Defense
-        - title: Research Intern
-          company: University of Wisconsin, Madison
-          company_url: 'https://www.wisc.edu/'
-          company_logo: 'uwmadison'
-          location: WI, Madison
-          date_start: '2023-03-01'
-          date_end: ''
-          description: |2-
-              Advisor: *Prof.Chaowei Xiao*  
-              Research Topic include:
-              * Certification Defense
-              * Adversarial Example for VLM 
-    design:
-      columns: '2'
   - block: collection
     content:
       title: Recent Publications
@@ -132,5 +93,43 @@ sections:
     design:
       columns: '2'
       view: compact
-
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Research Intern
+          company: Next++ (NUS) & LDS (USTC)
+          company_url: 'https://data-science.ustc.edu.cn/_upload/tpl/12/db/4827/template4827/'
+          company_logo: 'lds'
+          location: HEFEI
+          date_start: '2022-09-01'
+          date_end: '2023-03-01'
+          description: |2-
+              Mentor: *Wenjie Wang* (Research Fellow)  
+              Advisor: *Prof.Fuli Feng*  
+              Research Topic include:
+              * Recomender Attack
+              * Platform for Recsys Attack & Defense
+        - title: Research Intern
+          company: University of Wisconsin, Madison
+          company_url: 'https://www.wisc.edu/'
+          company_logo: 'uwmadison'
+          location: WI, Madison
+          date_start: '2023-03-01'
+          date_end: ''
+          description: |2-
+              Advisor: *Prof.Chaowei Xiao*  
+              Research Topic include:
+              * Certification Defense
+              * Adversarial Example for VLM 
+    design:
+      columns: '2'
 ---
