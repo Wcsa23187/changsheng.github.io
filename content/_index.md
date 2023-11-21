@@ -70,7 +70,7 @@ sections:
         - title: Research Intern
           company: University of Wisconsin, Madison
           company_url: 'https://www.wisc.edu/'
-          company_logo: 
+          company_logo: 'uwmadison'
           location: WI, Madison
           date_start: '2023-03-01'
           date_end: ''
