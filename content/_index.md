@@ -57,7 +57,7 @@ sections:
         - title: Research Intern
           company: Next++ & LDS
           company_url: 'https://data-science.ustc.edu.cn/_upload/tpl/12/db/4827/template4827/'
-          company_logo: 
+          company_logo: 'lds.png'
           location: HEFEI
           date_start: '2022-09-01'
           date_end: '2023-03-01'
