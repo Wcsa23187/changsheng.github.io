@@ -55,7 +55,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Intern
-          company: Next++ & LDS
+          company: Next++ (NUS) & LDS (USTC)
           company_url: 'https://data-science.ustc.edu.cn/_upload/tpl/12/db/4827/template4827/'
           company_logo: 'lds'
           location: HEFEI
