@@ -31,17 +31,11 @@ bio: My research interests include Trustworthy (Robustness, Security, Fairness) 
 interests:
   - Trustworthy
   - LLM & VLM
-  - Information Retrieval
+  - AI safety
 
 # Education to show in About widget
 education:
   courses:
-    - course: Reasearch Intern
-      institution: University of Wisconsin, Madison
-      year: 2023
-    - course: Reasearch Intern
-      institution: Next++ & LDS
-      year: 2022
     - course: BSc in Data Science
       institution: USTC
       year: 2020
