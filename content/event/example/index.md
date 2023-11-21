@@ -1,5 +1,5 @@
 ---
-title: 'Recsys'23: RecAD'
+title: 'Recsys 23: RecAD'
 
 event: 17th ACM Conference on Recommender Systems
 event_url: https://recsys.acm.org/recsys23/
