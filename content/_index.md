@@ -62,8 +62,8 @@ sections:
           date_start: '2022-09-01'
           date_end: '2023-03-01'
           description: |2-
-              Mentor: Wenjie Wang(Research Fellow)
-              Advisor:Prof.Fuli Feng
+              Mentor: Wenjie Wang(Research Fellow)  
+              Advisor: Prof.Fuli Feng  
               Research Topic include:
               * Recmendation Attack
               * Platform for Recsys Attack & Defense
@@ -75,7 +75,7 @@ sections:
           date_start: '2023-03-01'
           date_end: ''
           description: |2-
-              Advisor:Prof.Chaowei Xiao
+              Advisor: Prof.Chaowei Xiao  
               Research Topic include:
               * Certification Defense
               * Adversarial Example for VLM 
