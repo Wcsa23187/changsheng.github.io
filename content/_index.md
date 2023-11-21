@@ -54,27 +54,31 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Research Intern
+          company: Next++ & LDS
+          company_url: 'https://data-science.ustc.edu.cn/_upload/tpl/12/db/4827/template4827/'
+          company_logo: LDS
+          location: HEFEI
+          date_start: '2022-09-01'
+          date_end: '2023-03-01'
+          description: |2-
+              Mentor: Wenjie Wang(Research Fellow)
+              Advisor:Prof.Fuli Feng
+              Research Topic include:
+              * Recmendation Attack
+              * Platform for Recsys Attack & Defense
+        - title: Research Intern
+          company: University of Wisconsin, Madison
+          company_url: 'https://www.wisc.edu/'
+          company_logo: UWM
+          location: WI, Madison
+          date_start: '2023-03-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              Advisor:Prof.Chaowei Xiao
+              Research Topic include:
+              * Certification Defense
+              * Adversarial Example for VLM 
     design:
       columns: '2'
   - block: collection
